@@ -26,6 +26,7 @@
 ## 🔗 Links & Resources
 
 - 💚 **Modrinth Organization**: [ALBOE Team on Modrinth](https://modrinth.com/organization/alboe-team)
+- 🟠 **CurseForge Projects**: [ALBOE Team on CurseForge](https://www.curseforge.com/members/alittlebitofeverythingteam/projects)
 - 🌐 **Studio Website**: [notaglitch.net](https://www.notaglitch.net/)
 - 📺 **YouTube**: [@notaglitchstudios](https://www.youtube.com/@notaglitchstudios)
 - 🎮 **Itch.io**: [lunasidegames.itch.io](https://lunasidegames.itch.io/)
