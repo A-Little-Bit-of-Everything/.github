@@ -10,13 +10,17 @@
 
 ---
 
-## 📦 Featured Mod Projects
+## 📦 Modpack & Mod Projects
+
+- 🧩 **A Little Bit of Everything** *(WIP Modpack)*  
+  The flagship modpack currently under active development.
 
 - 🎣 **[A Little Bit of Fishing](https://github.com/Lunaside-Modding/a-little-bit-of-fishing)**  
   Fishing companion mod designed for the *A Little Bit of Everything* modpack.
 
 - 🎵 **[A Little Bit of Music](https://github.com/Lunaside-Modding/a-little-bit-of-music)**  
-  Standalone music expansion mod bringing extended soundtracks to your world.
+  Standalone music expansion mod bringing extended soundtracks to your world.  
+  - 🎶 [Official Soundtrack Playlist on YouTube](https://www.youtube.com/playlist?list=PLrWRV6g4PHiKpH_m70-92AmyGoufqR7h6)
 
 - 🍎 **[A Little Bit of Delight](https://github.com/Lunaside-Modding/a-little-bit-of-delight)**  
   Farmer's Delight addon introducing additional fruit trees, crops, and culinary options.
