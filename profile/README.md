@@ -35,3 +35,10 @@
 - 🌐 **Studio Website**: [notaglitch.net](https://www.notaglitch.net/)
 - 📺 **YouTube**: [@notaglitchstudios](https://www.youtube.com/@notaglitchstudios)
 - 🎮 **Itch.io**: [lunasidegames.itch.io](https://lunasidegames.itch.io/)
+
+---
+
+## 🤝 Team & Leadership
+
+- **Modding Lead**: [TheAndromedaCat](https://www.andromedacat.net/) [ᴳᴴ](https://github.com/TheAndromedaCat)
+- **Modpack Lead**: [FerretLife](https://www.youtube.com/@FerretLifeGaming)
