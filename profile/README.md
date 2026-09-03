@@ -20,6 +20,7 @@
 
 - 🎵 **[A Little Bit of Music](https://github.com/Lunaside-Modding/a-little-bit-of-music)**  
   Standalone music expansion mod bringing extended soundtracks to your world.  
+  - 🎧 [Official Release: *"A Normal Hotel"*](https://song.link/albom-a-normal-hotel)  
   - 🎶 [Official Soundtrack Playlist on YouTube](https://www.youtube.com/playlist?list=PLrWRV6g4PHiKpH_m70-92AmyGoufqR7h6)
 
 - 🍎 **[A Little Bit of Delight](https://github.com/Lunaside-Modding/a-little-bit-of-delight)**  
