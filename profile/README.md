@@ -19,7 +19,8 @@
   Fishing companion mod designed for the *A Little Bit of Everything* modpack.
 
 - 🎵 **[A Little Bit of Music](https://github.com/Lunaside-Modding/a-little-bit-of-music)**  
-  Standalone music expansion mod bringing extended soundtracks to your world.  
+  Standalone music expansion mod bringing extended soundtracks to your world, published by **[Not a Glitch Records](https://music.notaglitch.net/)**.  
+  - 🌐 Music Label Website: [music.notaglitch.net](https://music.notaglitch.net/)  
   - 🎧 [Official Release: *"A Normal Hotel"*](https://song.link/albom-a-normal-hotel)  
   - 🎶 [Official Soundtrack Playlist on YouTube](https://www.youtube.com/playlist?list=PLrWRV6g4PHiKpH_m70-92AmyGoufqR7h6)
 
@@ -32,6 +33,7 @@
 
 - 💚 **Modrinth Organization**: [ALBOE Team on Modrinth](https://modrinth.com/organization/alboe-team)
 - 🟠 **CurseForge Projects**: [ALBOE Team on CurseForge](https://www.curseforge.com/members/alittlebitofeverythingteam/projects)
+- 🎵 **Not a Glitch Records**: [music.notaglitch.net](https://music.notaglitch.net/) ([@notaglitchrecords](https://www.youtube.com/@notaglitchrecords))
 - 🌐 **Studio Website**: [notaglitch.net](https://www.notaglitch.net/)
 - 📺 **YouTube**: [@notaglitchstudios](https://www.youtube.com/@notaglitchstudios)
 - 🎮 **Itch.io**: [lunasidegames.itch.io](https://lunasidegames.itch.io/)
