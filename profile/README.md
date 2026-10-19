@@ -1,6 +1,6 @@
 # A Little Bit of Everything Team ⛏️
 
-**A Little Bit of Everything Team** *(Lunaside Modding)* is the Minecraft modding initiative of **Not a Glitch Studios**, dedicated to crafting quality mods and modpack expansions for Minecraft Java Edition.
+**A Little Bit of Everything Team** *(formerly Lunaside Modding)* is the Minecraft modding initiative of **Not a Glitch Studios**, dedicated to crafting quality mods and modpack expansions for Minecraft Java Edition.
 
 ---
 
