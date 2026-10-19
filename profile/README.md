@@ -15,6 +15,9 @@
 - 🧩 **A Little Bit of Everything** *(WIP Modpack)*  
   The flagship modpack currently under active development.
 
+- ⚙️ **[Andromeda's Create](http://www.andromedacat.net/ac)** *(Modpack)*  
+  A Create-focused Minecraft modpack built around automation, contraptions, and exploration. *(Minecraft 1.21.1 — NeoForge)*
+
 - 🎣 **[A Little Bit of Fishing](https://github.com/Lunaside-Modding/a-little-bit-of-fishing)**  
   Fishing companion mod designed for the *A Little Bit of Everything* modpack.
 
@@ -26,6 +29,9 @@
 
 - 🍎 **[A Little Bit of Delight](https://github.com/Lunaside-Modding/a-little-bit-of-delight)**  
   Farmer's Delight addon introducing additional fruit trees, crops, and culinary options.
+
+- 🎨 **[MDM Dye Depot Compat](https://modrinth.com/mod/mdm-dye-depot-compat)**  
+  Compatibility mod bridging MDM and Dye Depot for expanded dyeable content.
 
 ---
 
